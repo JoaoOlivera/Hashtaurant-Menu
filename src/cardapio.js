@@ -48,14 +48,14 @@ const risotoCamaraoTrufado = {
     'Arroz Arbóreo, camarões salteados no azeite trufado e crocantes de panko',
 };
 
-const brownie = {
+const brownie =  {
   nome: 'Brownie',
   preco: 'R$ 32,90',
   imagem: brownieImg,
   descricao:
     'Delicioso brownie caseiro, sorvete de creme, calda quente de chocolate',
 };
-const cocadaForno = {
+const cocadaForno =  {
   nome: 'Cocada de Forno',
   preco: 'R$ 32,90',
   imagem: cocadaFornoImg,
